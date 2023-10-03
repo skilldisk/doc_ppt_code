@@ -3,6 +3,8 @@
 ## Customizing Rise
 
 ** RISE **
+
+```json
 "rise": {
     "autolaunch": true,
     "enable_chalkboard": true,
@@ -12,7 +14,7 @@
     "theme": "beige",
     "transition": "zoom"
   }
-  
+```
   
 ## Themes 
 
